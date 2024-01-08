@@ -1,4 +1,4 @@
-# mage_overlay_app
+# image_overlay_app
 Simple  image overlay App using python with tkinter
 
 ![2024-01-08 11_26_24-Image Overlay App](https://github.com/dhanushka47/mage_overlay_app/assets/99599915/0514216d-8c96-46e0-a94c-5f3b119f7ab0)
